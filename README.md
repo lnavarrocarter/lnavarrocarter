@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  ![lnavarrocarter's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnavarrocarter&layout=compact&show_icons=true&theme=synthwave)
+  [![lnavarrocarter's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnavarrocarter&layout=compact&show_icons=true&theme=synthwave)](https://github.com/lnavarrocarter/)
   <br><br>
   <samp>
 I'm Nacho. A freelance Web Designer & Developer from Santiago, Chile. I design and develop websites, landing pages and applications for startups and enterprises. 
