@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" width="150px">
+  ![lnavarrocarter's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnavarrocarter&layout=compact&show_icons=true&theme=synthwave)
   <br><br>
   <samp>
 I'm Nacho. A freelance Web Designer & Developer from Santiago, Chile. I design and develop websites, landing pages and applications for startups and enterprises. 
@@ -12,7 +12,7 @@ I'm Nacho. A freelance Web Designer & Developer from Santiago, Chile. I design a
 </p>
 <br>
 
-![lnavarrocarter's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnavarrocarter&layout=compact&show_icons=true&theme=synthwave)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnavarrocarter&layout=compact&theme=synthwave)](https://github.com/lnavarrocarter/)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lnavarrocarter&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
