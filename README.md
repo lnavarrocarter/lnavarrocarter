@@ -10,7 +10,15 @@ I'm Nacho. A freelance Web Designer & Developer from Santiago, Chile. I design a
 <br><br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=lnavarrocarter.lnavarrocartergh" alt="Visitors Counter">
 </p>
+<br>
 
+![lnavarrocarter's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnavarrocarter&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnavarrocarter&layout=compact&theme=synthwave)](https://github.com/lnavarrocarter/)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lnavarrocarter&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lnavarrocarter&repo=authci](https://github.com/lnavarrocarter/)
 
 <!--
 **lnavarrocarter/lnavarrocarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
