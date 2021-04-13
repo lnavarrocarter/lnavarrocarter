@@ -12,9 +12,12 @@ I'm Nacho. A freelance Web Designer & Developer from Santiago, Chile. I design a
 </p>
 <br>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnavarrocarter&layout=compact&theme=synthwave)](https://github.com/lnavarrocarter/)
+<br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lnavarrocarter&repo=ncai2019&theme=synthwave)](https://github.com/lnavarrocarter/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lnavarrocarter&repo=angular-electron-started&theme=synthwave)](https://github.com/lnavarrocarter/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lnavarrocarter&repo=Authci&theme=synthwave)](https://github.com/lnavarrocarter/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lnavarrocarter&repo=ChatBot--RecastIO&theme=synthwave)](https://github.com/lnavarrocarter/)
 
 <!--
 **lnavarrocarter/lnavarrocarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
