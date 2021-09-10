@@ -1,0 +1,62 @@
+name: Bug Report
+description: Reporte de Bug para Registro
+title: "[Bug]: "
+labels: [bug, triage]
+assignees:
+  - ca
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ¡Gracias por tomarse el tiempo para completar este informe de errores!
+  - type: input
+    id: contact
+    attributes:
+      label: Detalles de Contacto
+      description: ¿Cómo podemos ponernos en contacto con usted si necesitamos más información?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: ¿Qué sucedió?
+      description: Cuéntanos también, ¿qué esperabas que sucediera?
+      placeholder: ¡Cuéntanos lo que ves!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: What version of our software are you running?
+      options:
+        - 1.0.2 (Default)
+        - 1.0.3 (Edge)
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: ¿En qué navegadores estás viendo el problema?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+  - type: textarea
+    id: logs
+    attributes:
+      label: Salida de registro relevante
+      description: Copie y pegue cualquier salida de registro relevante. Esto se formateará automáticamente en código, por lo que no es necesario usar comillas invertidas.
+      render: shell
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Código de conducta
+      description: Al enviar este problema, acepta seguir nuestro [Código de conducta] (https://app360-prod.jordan.cl/info).
+      options:
+        - label: Acepto seguir el Código de conducta de este proyecto
+          required: true
