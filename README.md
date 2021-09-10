@@ -16,7 +16,7 @@ I'm Nacho. A freelance Web Designer & Developer from Santiago, Chile. I design a
 <br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lnavarrocarter&repo=ncai2019&theme=synthwave)](https://github.com/lnavarrocarter/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lnavarrocarter&repo=angular-electron-started&theme=synthwave)](https://github.com/lnavarrocarter/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lnavarrocarter&repo=Authci&theme=synthwave)](https://github.com/lnavarrocarter/)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lnavarrocarter&repo=Authci&theme=synthwave)](https://github.com/lnavarrocarter/)-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lnavarrocarter&repo=ChatBot--RecastIO&theme=synthwave)](https://github.com/lnavarrocarter/)
 
 <!--
