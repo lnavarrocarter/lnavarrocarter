@@ -34,10 +34,9 @@
 ### 🚀 Mis Proyectos personales 
 ---
 
-- [ ] world-pixel-procedural-generator [Link](http://world-pixel.lnavarro.dev)
+- [ ] world-pixel-procedural-generator
 - [x] Template Builder HTML & Mail [Link](http://builder.lnavarro.dev) 
 - [ ] Automated Deployment CND [Link](http://lnavarro.dev)
-- [x] 
 
 
 
@@ -48,10 +47,14 @@
 ---
 - [x] Teleton En tu Casa [Link](https://teletonentucasa.cl)
 - [ ] Plan Cuadrante 20 Carabineros de Chile (offline)
-- [x] Crime risk map [link](https://www.giscloud.com/blog/carabineros-de-chile-crime-risk-map/)
+- [x] Crime Risk Map [link](https://www.giscloud.com/blog/carabineros-de-chile-crime-risk-map/)
 - [x] Portal Jordan360 [Link](http://jordan360.lnavarro.dev)
 - [ ] ITMS mobile App
-- [ ] 
+- [ ] Wadu App / Wadu Web [Link](https://wadu.cl)
+
+
+<br>
+<br>
 
 ### 👨‍💻 Logos de Stack 
 ---
