@@ -24,9 +24,13 @@
 
 <p align="center">
 
-| Lenguajes y Frameworks                                                                                                                                                                                      | Lenguajes mas usados en ranking                                                                                                                           | Estoy aprendiendo o mejorando en                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| <br> HTML/CSS <br> JavaScript <br> Angular <br> React <br> Node.js <br> Electron <br> Ionic <br> Git <br> Docker <br> AWS <br> Slack <br> Jira <br> Typescript <br> kubernetes (EKS) <br> Lambda (AWS) <br> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnavarrocarter&layout=compact&theme=tokyonight&layout=" /></p> | <br> Python <br> Go  <br> Flutter <br> bach <br><br> ---- <br> |
+| Lenguajes y Frameworks| Lenguajes mas usados en ranking | Estoy aprendiendo o mejorando en|
+|:---:|:---:|:---:|
+| <br> `HTML/CSS` <br> `JavaScript` <br> `Angular` <br> `React` <br> `Node.js` <br> `Electron` <br> `Ionic` <br> `Git` <br> `Docker` <br> `AWS` <br> `Slack` <br> `Jira` <br> `Typescript` <br> `kubernetes (EKS)` <br> `Lambda (AWS)` <br> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnavarrocarter&layout=compact&theme=tokyonight&layout=" /> | <br> - [x] `Python` <br> Go  <br> Flutter <br> bach <br><br> ---- <br> |
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
 ---
 <br>
