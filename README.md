@@ -1,4 +1,4 @@
-### Hola 👋
+# 👋 Hola 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lnavarrocarter&layout=compact&show_icons=true&theme=tokyonight" />
@@ -19,19 +19,41 @@
 </p>
 <br>
 
-#### 🛠 Habilidades y tecnología
+### 🛠 Habilidades y tecnología
 ---
 
 <p align="center">
 
 | Lenguajes y Frameworks| Lenguajes mas usados en ranking | Estoy aprendiendo o mejorando en|
 |:---:|:---:|:---:|
-| <br> `HTML/CSS` <br> `JavaScript` <br> `Angular` <br> `React` <br> `Node.js` <br> `Electron` <br> `Ionic` <br> `Git` <br> `Docker` <br> `AWS` <br> `Slack` <br> `Jira` <br> `Typescript` <br> `kubernetes (EKS)` <br> `Lambda (AWS)` <br> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnavarrocarter&layout=compact&theme=tokyonight&layout=" /> | <br> - [x] `Python` <br> Go  <br> Flutter <br> bach <br><br> ---- <br> |
+| <br> `HTML/CSS` <br> `JavaScript` <br> `Angular` <br> `React` <br> `Node.js` <br> `Electron` <br> `Ionic` <br> `Git` <br> `Docker` <br> `AWS` <br> `Slack` <br> `Jira` <br> `Typescript` <br> `kubernetes (EKS)` <br> `Lambda (AWS)` <br> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnavarrocarter&layout=compact&theme=tokyonight&layout=" /> | <br> `Python` <br> `Go`  <br> `Flutter` <br> `bach` <br> |
+</p>
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+<br><br>
 
+### 🚀 Mis Proyectos personales 
+---
+
+- [ ] world-pixel-procedural-generator [Link](http://world-pixel.lnavarro.dev)
+- [x] Template Builder HTML & Mail [Link](http://builder.lnavarro.dev) 
+- [ ] Automated Deployment CND [Link](http://lnavarro.dev)
+- [x] 
+
+
+
+<br>
+<br>
+
+### 🚀 Mis Proyectos de trabajo
+---
+- [x] Teleton En tu Casa [Link](https://teletonentucasa.cl)
+- [ ] Plan Cuadrante 20 Carabineros de Chile (offline)
+- [x] Crime risk map [link](https://www.giscloud.com/blog/carabineros-de-chile-crime-risk-map/)
+- [x] Portal Jordan360 [Link](http://jordan360.lnavarro.dev)
+- [ ] ITMS mobile App
+- [ ] 
+
+### 👨‍💻 Logos de Stack 
 ---
 <br>
 <p align="center">
@@ -54,17 +76,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" title="Flutter (20%)">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30" title="Go (10%)">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python (60%)">
-
-
 </p>
 <br>
 
----
-
+### 📫 Contacto
+--- 
 </p>
 
 <details>
-<summary> 👀 Mira que hermoso soy en ASCII  <br></summary>
+<summary>  👀 Mira que hermoso soy en ASCII  <br></summary>
 
 ----
 <sub><sup>ASCII art by <a href="https://www.asciiart.eu/">ASCII Art</a></sup></sub>
