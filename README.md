@@ -26,7 +26,7 @@
 
 | Lenguajes y Frameworks| Lenguajes mas usados en ranking | Estoy aprendiendo o mejorando en|
 |:---:|:---:|:---:|
-| <br> `HTML/CSS` <br> `JavaScript` <br> `Angular` <br> `React` <br> `Node.js` <br> `Electron` <br> `Ionic` <br> `Git` <br> `Docker` <br> `AWS` <br> `Slack` <br> `Jira` <br> `Typescript` <br> `kubernetes (EKS)` <br> `Lambda (AWS)` <br> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnavarrocarter&layout=compact&theme=tokyonight&layout=" /> | <br> `Python` <br> `Go`  <br> `Flutter` <br> `bach` <br> |
+| <br> `HTML/CSS` <br> `JavaScript` <br> `Angular` <br> `React` <br> `Node.js` <br> `Electron` <br> `Ionic` <br> `Git` <br> `Docker` <br> `AWS` <br> `Slack` <br> `Jira` <br> `Typescript` <br> `kubernetes (EKS)` <br> `Lambda (AWS)` <br> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnavarrocarter&layout=compact&theme=tokyonight" /> | <br> `Python` <br> `Go`  <br> `Flutter` <br> `bach` <br> |
 </p>
 
 <br><br>
