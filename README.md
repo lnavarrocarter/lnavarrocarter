@@ -15,6 +15,7 @@
   
 <br>
 <p align="center">
+  ![](https://api.visitorbadge.io/api/VisitorHit?user=lnavarrocarter&repo=lnavarrocarter&countColor=%f1c232)
   <img src="https://visitor-badge.glitch.me/badge?page_id=lnavarrocarter.lnavarrocartergh&left_color=green&right_color=red" alt="Visitors Counter">
 </p>
 <br>
