@@ -15,8 +15,7 @@
   
 <br>
 <p align="center">
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=lnavarrocarter.lnavarrocartergh&left_color=green&right_color=red)
-  <img src="https://visitor-badge.glitch.me/badge?page_id=lnavarrocarter.lnavarrocartergh" alt="Visitors Counter">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=lnavarrocarter.lnavarrocartergh&left_color=green&right_color=red" alt="Visitors Counter">
 </p>
 <br>
 
