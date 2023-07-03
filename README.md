@@ -47,9 +47,9 @@
 ### 🚀 Mis Proyectos de trabajo
 ---
 - [x] Teleton En tu Casa [Link](https://teletonentucasa.cl)
-- [ ] Plan Cuadrante 20 Carabineros de Chile (offline)
+- [ ] Plan Cuadrante 20 Carabineros de Chile 
 - [x] Crime Risk Map [link](https://www.giscloud.com/blog/carabineros-de-chile-crime-risk-map/)
-- [x] Portal Jordan360 [Link](http://jordan360.lnavarro.dev)
+- [x] Portal Jordan360 [Link](http://app-360.jordan.cl)
 - [ ] ITMS mobile App
 - [ ] Wadu App / Wadu Web [Link](https://wadu.cl)
 
