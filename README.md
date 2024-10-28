@@ -1,91 +1,144 @@
 # 👋 Hola 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lnavarrocarter&layout=compact&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lnavarrocarter&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
-  <br><br>
+
+<br>
+
 <p align="center">
   <samp>
     Hola, soy Nacho, un diseñador y desarrollador web freelance de Santiago, Chile. Diseño y desarrollo sitios web, páginas de aterrizaje y aplicaciones para startups y empresas. Me apasiona crear soluciones tecnológicas innovadoras y eficientes para mis clientes.
-     <br>
-     Para conocer más sobre mi trabajo, visita mi <a href="https://lnavarro.dev">websites</a> o contáctame enviándome un <a href="mailto:lnavarrocarter@ncai.cl">correo electrónico</a>.
+    <br><br>
+    Para conocer más sobre mi trabajo, visita mi <a href="https://lnavarro.dev">sitio web</a> o contáctame enviándome un <a href="mailto:lnavarrocarter@ncai.cl">correo electrónico</a>.
   </samp>
-  </p>
-
-  
-<br>
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=lnavarrocarter&repo=lnavarrocarter&countColor=%F1C232" alt="Visitors Counter">
-  <!--<img src="https://visitor-badge.glitch.me/badge?page_id=lnavarrocarter.lnavarrocartergh&left_color=green&right_color=red" alt="Visitors Counter">-->
 </p>
-<br>
 
-### 🛠 Habilidades y tecnología
----
+<br>
 
 <p align="center">
-
-| Lenguajes y Frameworks| Lenguajes mas usados en ranking | Estoy aprendiendo o mejorando en|
-|:---:|:---:|:---:|
-| <br> `HTML/CSS` <br> `JavaScript` <br> `Angular` <br> `React` <br> `Node.js` <br> `Electron` <br> `Ionic` <br> `Git` <br> `Docker` <br> `AWS` <br> `Slack` <br> `Jira` <br> `Typescript` <br> `kubernetes (EKS)` <br> `Lambda (AWS)` <br> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnavarrocarter&layout=compact&theme=tokyonight" /> | <br> `Python` <br> `Go`  <br> `Flutter` <br> `bach` <br> |
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=lnavarrocarter&repo=lnavarrocarter&countColor=%23F1C232" alt="Contador de Visitas">
 </p>
 
-<br><br>
-
-### 🚀 Mis Proyectos personales 
 ---
 
-- [ ] world-pixel-procedural-generator
-- [x] Template Builder HTML & Mail [Link](http://builder.lnavarro.dev) 
-- [ ] Automated Deployment CND [Link](http://lnavarro.dev)
+## 🛠 Habilidades y Tecnología
 
+### Lenguajes de Programación
 
+- **HTML/CSS** ![HTML/CSS](https://img.shields.io/badge/-90%25-blue)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/-100%25-blue)
+- **TypeScript** ![TypeScript](https://img.shields.io/badge/-100%25-blue)
+- **Python** ![Python](https://img.shields.io/badge/-80%25-blue)
+- **Go** ![Go](https://img.shields.io/badge/-40%25-blue)
+- **Bash** ![Bash](https://img.shields.io/badge/-70%25-blue)
+- **PHP** ![PHP](https://img.shields.io/badge/-70%25-blue)
 
-<br>
-<br>
+### Frameworks y Librerías
 
-### 🚀 Mis Proyectos de trabajo
+- **Angular** ![Angular](https://img.shields.io/badge/-90%25-green)
+- **React** ![React](https://img.shields.io/badge/-75%25-green)
+- **Node.js** ![Node.js](https://img.shields.io/badge/-95%25-green)
+- **Electron** ![Electron](https://img.shields.io/badge/-70%25-green)
+- **Ionic** ![Ionic](https://img.shields.io/badge/-65%25-green)
+- **Flutter** ![Flutter](https://img.shields.io/badge/-20%25-green)
+
+### Herramientas y Plataformas
+
+- **Git** ![Git](https://img.shields.io/badge/-100%25-orange)
+- **Docker** ![Docker](https://img.shields.io/badge/-90%25-orange)
+- **Kubernetes (EKS)** ![Kubernetes](https://img.shields.io/badge/-90%25-orange)
+- **AWS** ![AWS](https://img.shields.io/badge/-85%25-orange)
+- **Google Cloud** ![Google Cloud](https://img.shields.io/badge/-50%25-orange)
+- **GitHub** ![GitHub](https://img.shields.io/badge/-95%25-orange)
+
+### Metodologías Ágiles
+
+- **Scrum**
+- **Kanban**
+- **Jira**
+- **Slack**
+
 ---
-- [x] Teleton En tu Casa [Link](https://teletonentucasa.cl)
-- [ ] Plan Cuadrante 20 Carabineros de Chile 
-- [x] Crime Risk Map [link](https://www.giscloud.com/blog/carabineros-de-chile-crime-risk-map/)
-- [x] Portal Jordan360 [Link](http://app-360.jordan.cl)
-- [ ] ITMS mobile App
-- [ ] Wadu App / Wadu Web [Link](https://wadu.cl)
 
+## 📊 Estadísticas de GitHub
 
-<br>
-<br>
-
-### 👨‍💻 Logos de Stack 
----
-<br>
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" title="Angular">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="30" title="Electron">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" title="Google Cloud">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="30" title="Jira">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" title="AWS">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="30" title="Slack">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker (80%)">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" title="Kubernetes">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" title="Flutter (20%)">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30" title="Go (10%)">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python (60%)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnavarrocarter&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
-<br>
 
-### 📫 Contacto
---- 
+---
+
+## 🚀 Mis Proyectos Personales 
+
+- [ ] **World Pixel Procedural Generator**
+- [x] **Template Builder HTML & Mail** - [Visitar](http://builder.lnavarro.dev)
+- [ ] **Automated Deployment CDN** - [Visitar](http://lnavarro.dev)
+- [ ] **Fox Framework** (Typescript Framework) - [Visitar](http://lnavarro.dev)
+- [ ] **Automated workflow base** (Python,Typescript,Docker) - [Visitar](http://lnavarro.dev)
+
+---
+
+## 🚀 Mis Proyectos de Trabajo
+
+- [x] **Teletón En tu Casa** - [Visitar](https://teletonentucasa.cl)
+- [x] **Crime Risk Map** - [Leer más](https://www.giscloud.com/blog/carabineros-de-chile-crime-risk-map/)
+- [x] **Portal Jordan360** - [Visitar](http://app-360.jordan.cl)
+- [x] **ITMS Mobile App**
+- [x] **Wadu App / Wadu Web** - [Visitar](https://wadu.cl)
+- [ ] **GeoPortalPro**
+- [ ] **Teramobile**
+- [ ] **TeraView**
+- [ ] **DTE BCI**
+- [ ] **Event App**
+- [ ] **Mas alla de La extincion MHN** - [Visitar](https://www.exposicionesmnhn.cl/dinosaurios/index.html)
+
+---
+
+## 👨‍💻 Stack Tecnológico
+
+<p align="center">
+  <!-- Lenguajes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash" />
+
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" title="Electron" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" title="Ionic" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter" />
+
+  <!-- Herramientas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" title="Jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" title="Slack" />
 </p>
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:lnavarrocarter@ncai.cl">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/lnavarrocarter/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 
 <details>
 <summary>  👀 Mira que hermoso soy en ASCII  <br></summary>
