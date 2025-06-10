@@ -78,6 +78,14 @@
 - [ ] **Automated workflow base** (Python,Typescript,Docker) - [Visitar](http://lnavarro.dev)
 
 ---
+name: Half-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+---
 
 ## 🚀 Mis Proyectos de Trabajo
 
