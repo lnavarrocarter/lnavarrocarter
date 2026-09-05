@@ -3,36 +3,45 @@
 # Nacho Navarro Carter
 
 ### Diseño, desarrollo y tecnología para productos digitales
+### Design, development and technology for digital products
 
-Diseñador y desarrollador web freelance en Santiago, Chile. Creo sitios web,<br>
-landing pages, aplicaciones y herramientas open source para startups, empresas y equipos técnicos.
+Diseñador y desarrollador web freelance en Santiago, Chile. Creo sitios web, landing pages,<br>
+aplicaciones y herramientas open source para startups, empresas y equipos técnicos.
+
+*Freelance web designer and developer based in Santiago, Chile. I build websites, landing pages,<br>
+applications and open-source tools for startups, companies and technical teams.*
 
 [![Website](https://img.shields.io/badge/navarrocarter.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://navarrocarter.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lnavarrocarter/)
-[![Email](https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lnavarrocarter@ncai.cl)
+[![Email](https://img.shields.io/badge/Contacto_%2F_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lnavarrocarter@ncai.cl)
 
-**Conoce mi trabajo, experiencia y proyectos en [navarrocarter.com](https://navarrocarter.com).**
+**Conoce mi trabajo, experiencia y proyectos en [navarrocarter.com](https://navarrocarter.com).**<br>
+***Discover my work, experience and projects at [navarrocarter.com](https://navarrocarter.com).***
 
 </div>
 
 ---
 
-## Lo que hago
+## Lo que hago / What I do
 
-- **Productos web:** diseño y desarrollo de experiencias rápidas, claras y escalables.
-- **Aplicaciones:** soluciones web y de escritorio orientadas a necesidades reales.
-- **Cloud & DevOps:** automatización, contenedores e infraestructura en AWS, GCP y Kubernetes.
-- **Open source:** herramientas para desarrolladores y equipos técnicos.
+- **Productos web / Web products:** diseño y desarrollo de experiencias rápidas, claras y escalables.<br>
+  *Design and development of fast, clear and scalable experiences.*
+- **Aplicaciones / Applications:** soluciones web y de escritorio orientadas a necesidades reales.<br>
+  *Web and desktop solutions focused on real-world needs.*
+- **Cloud & DevOps:** automatización, contenedores e infraestructura en AWS, GCP y Kubernetes.<br>
+  *Automation, containers and infrastructure across AWS, GCP and Kubernetes.*
+- **Open source:** herramientas para desarrolladores y equipos técnicos.<br>
+  *Tools for developers and technical teams.*
 
-## Proyectos destacados
+## Proyectos destacados / Featured projects
 
-| Proyecto | Descripción | Tecnologías |
+| Proyecto / Project | Descripción / Description | Tecnologías / Technologies |
 | --- | --- | --- |
-| [**KUA — Know Unified Administration**](https://github.com/lnavarrocarter/kuadashboard) | Plataforma open source para centralizar y operar infraestructura Kubernetes, AWS y GCP. | Vue, Node.js, Electron, Kubernetes |
-| [**Fox Framework**](https://github.com/lnavarrocarter/fox-framework) | Framework web modular para crear aplicaciones TypeScript y Node.js listas para producción. | TypeScript, Node.js, Docker |
-| [**CSV / XLS Table Viewer**](https://github.com/lnavarrocarter/vscode-table-viewer) | Extensión de VS Code para visualizar y editar archivos tabulares. | TypeScript, VS Code API |
+| [**KUA — Know Unified Administration**](https://github.com/lnavarrocarter/kuadashboard) | Plataforma open source para centralizar y operar infraestructura Kubernetes, AWS y GCP.<br>*Open-source platform for centralized Kubernetes, AWS and GCP infrastructure operations.* | Vue, Node.js, Electron, Kubernetes |
+| [**Fox Framework**](https://github.com/lnavarrocarter/fox-framework) | Framework web modular para crear aplicaciones TypeScript y Node.js listas para producción.<br>*Modular web framework for building production-ready TypeScript and Node.js applications.* | TypeScript, Node.js, Docker |
+| [**CSV / XLS Table Viewer**](https://github.com/lnavarrocarter/vscode-table-viewer) | Extensión de VS Code para visualizar y editar archivos tabulares.<br>*VS Code extension for viewing and editing tabular files.* | TypeScript, VS Code API |
 
-## Tecnologías
+## Tecnologías / Technologies
 
 <div align="center">
 
@@ -49,20 +58,30 @@ landing pages, aplicaciones y herramientas open source para startups, empresas y
 
 </div>
 
-## GitHub
+## Métricas de GitHub / GitHub metrics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lnavarrocarter&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub de Nacho Navarro Carter" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnavarrocarter&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados por Nacho Navarro Carter" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lnavarrocarter&theme=tokyonight" alt="Resumen de actividad de GitHub / GitHub activity summary" />
+  <br>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lnavarrocarter&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub / GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnavarrocarter&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados / Most used languages" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=lnavarrocarter&theme=tokyonight&hide_border=true" alt="Racha de contribuciones / Contribution streak" />
 </div>
 
 ---
 
 <div align="center">
 
-### ¿Quieres conocer más?
+### ¿Quieres conocer más? / Want to know more?
 
-Visita **[navarrocarter.com](https://navarrocarter.com)** o conversemos en<br>
+Visita **[navarrocarter.com](https://navarrocarter.com)** o conversemos.<br>
+*Visit **[navarrocarter.com](https://navarrocarter.com)** or let's connect.*
+
 [LinkedIn](https://www.linkedin.com/in/lnavarrocarter/) · [Email](mailto:lnavarrocarter@ncai.cl) · [GitHub Sponsors](https://github.com/sponsors/lnavarrocarter)
+
+<br>
+
+![Visitas al perfil / Profile views](https://api.visitorbadge.io/api/VisitorHit?user=lnavarrocarter&repo=lnavarrocarter&countColor=%230F172A)
 
 </div>
