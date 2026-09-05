@@ -4,7 +4,7 @@
 
 ### Diseño, desarrollo y tecnología para productos digitales
 
-Diseñador y desarrollador web freelance en Santiago, Chile. Creo sitios web,  
+Diseñador y desarrollador web freelance en Santiago, Chile. Creo sitios web,<br>
 landing pages, aplicaciones y herramientas open source para startups, empresas y equipos técnicos.
 
 [![Website](https://img.shields.io/badge/navarrocarter.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://navarrocarter.com)
@@ -62,7 +62,7 @@ landing pages, aplicaciones y herramientas open source para startups, empresas y
 
 ### ¿Quieres conocer más?
 
-Visita **[navarrocarter.com](https://navarrocarter.com)** o conversemos en  
+Visita **[navarrocarter.com](https://navarrocarter.com)** o conversemos en<br>
 [LinkedIn](https://www.linkedin.com/in/lnavarrocarter/) · [Email](mailto:lnavarrocarter@ncai.cl) · [GitHub Sponsors](https://github.com/sponsors/lnavarrocarter)
 
 </div>
